@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1607594909 source:c:\users\munkh-orgil\dropbox\my pc (desktop-mk92prg)\desktop\morse code\functions.c
+	"function.h"
+	<stdio.h>
+	<stdlib.h>
+
+1607594436 c:\users\munkh-orgil\dropbox\my pc (desktop-mk92prg)\desktop\morse code\function.h
+	<stdio.h>
+
+1514140574 source:c:\users\munkh-orgil\dropbox\my pc (desktop-mk92prg)\desktop\morse code\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1607594447 source:c:\users\munkh-orgil\dropbox\my pc (desktop-mk92prg)\desktop\morse code\morse code.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"function.h"
+
